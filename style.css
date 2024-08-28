@@ -5,7 +5,3 @@
   font-weight: <weight>;
   font-style: normal;
 }
-
-h3{
-  @apply text-3xl font-extrabold;
-}
